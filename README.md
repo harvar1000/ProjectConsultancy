@@ -22,7 +22,7 @@ Frontend: HTML, CSS, JavaScript
 Backend: Flask (Python) with RESTful APIs
 Database: MySQL
 Authentication: JWT, Flask-Login
-Visualization: Chart.js / D3.js (or whichever library you used)
+Visualization: Chart.js / D3.js 
 
 📂 Project Structure
 bill-tracker-app/
